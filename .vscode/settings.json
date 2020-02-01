@@ -1,6 +1,6 @@
 {
     "python.venvPath":"/Users/bjliu/anaconda/envs",
-    "python.pythonPath":"/Users/guangyupiao/opt/miniconda3/envs/python36/bin/python",
+    "python.pythonPath":"/Users/hikari/opt/anaconda3/envs/myenv/bin/python",
     "python.venvFolders":[
         "envs",
         ".pyenv",
