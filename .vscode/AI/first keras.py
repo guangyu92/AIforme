@@ -14,3 +14,8 @@ train_dataset=train_dataset.batch(512)
 a=tf.constant([True,False])
 aa=tf.cast(a,tf.int32)
 print(aa)
+
+
+b=tf.constant([1,0,2,3])
+bb=tf.cast(b,tf.bool)
+print(bb)
