@@ -15,3 +15,4 @@ a=tf.constant([True,False])
 aa=tf.cast(a,tf.int32)
 print(aa)
 
+
